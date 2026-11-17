@@ -1,0 +1,13 @@
+{
+  "n_rows_raw": 164,
+  "first_task_id": "HumanEval/0",
+  "last_task_id": "HumanEval/163",
+  "n_kept": 163,
+  "dropped_task_ids": [
+    {
+      "task_id": "HumanEval/130",
+      "reason": "定性矩阵解析失败"
+    }
+  ],
+  "feature_seed": 5
+}

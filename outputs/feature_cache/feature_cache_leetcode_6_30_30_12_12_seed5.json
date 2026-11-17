@@ -1,0 +1,13 @@
+{
+  "n_rows_raw": 309,
+  "first_task_id": "two-sum",
+  "last_task_id": "range-addition",
+  "n_kept": 308,
+  "dropped_task_ids": [
+    {
+      "task_id": "graph-valid-tree",
+      "reason": "定性矩阵解析失败"
+    }
+  ],
+  "feature_seed": 5
+}

@@ -1,0 +1,8 @@
+numpy
+torch
+openpyxl
+pandas
+requests
+radon
+textdistance
+transformers
